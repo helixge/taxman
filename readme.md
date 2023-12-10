@@ -51,22 +51,19 @@ Fields:
 
 
 ### 3. Income page
-<img width="959" alt="image" src="https://github.com/helixge/taxman/assets/132610/b6a58d00-88e0-4413-bd4b-07be576944b4">
+<img width="1137" alt="image" src="https://github.com/helixge/taxman/assets/132610/9ceded8a-9357-4c62-b9e0-fbe487231a98">
 
 
 Add, edit and delete income entries
 
 List Entries.
 
-<img width="602" alt="image" src="https://github.com/helixge/taxman/assets/132610/1d6e7c1d-a9fc-4b91-b38b-2257aeaad8e3">
-
-In edit mode, Senders can be added without leaving the form.
-
-Auto-calculated Amount in GEL by integrating with National Bank of Georgia API for exchange rates.
+<img width="1232" alt="image" src="https://github.com/helixge/taxman/assets/132610/a3f5fe7e-0d46-4f94-a68d-0688c8605967">
 
 
 ### 4. Settings page
-<img width="597" alt="image" src="https://github.com/helixge/taxman/assets/132610/74be01cf-e9b8-439c-af20-f576899509b2">
+<img width="728" alt="image" src="https://github.com/helixge/taxman/assets/132610/d24d5ee7-9480-4dcd-86f8-35566eb44f01">
+
 
 Edit income tax and VAT percentages.
 
