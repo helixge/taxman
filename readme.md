@@ -15,7 +15,9 @@ Tiny tax manager
 ## Pages
 
 ### 1. Welcome page
-<img width="596" alt="image" src="https://github.com/helixge/taxman/assets/132610/0981ddb7-c458-407a-a915-53ce93d80166">
+<img width="795" alt="image" src="https://github.com/helixge/taxman/assets/132610/6917c1bf-02ae-4907-89cb-6a7a402f3936">
+
+
 
 Create or select Google Sheets documents.
 
@@ -27,7 +29,9 @@ Buttons:
 
 
 ### 2. Dashboard page
-<img width="595" alt="image" src="https://github.com/helixge/taxman/assets/132610/46d9c546-0c8a-4d94-9530-6a34e2b99d48">
+<img width="914" alt="image" src="https://github.com/helixge/taxman/assets/132610/296b5951-e7e3-44c2-85a8-049add0d05eb">
+
+
 
 Monthly income report.
 
@@ -47,7 +51,8 @@ Fields:
 
 
 ### 3. Income page
-<img width="598" alt="image" src="https://github.com/helixge/taxman/assets/132610/a75e66fb-9e8c-4865-bf41-418ffc73809d">
+<img width="959" alt="image" src="https://github.com/helixge/taxman/assets/132610/b6a58d00-88e0-4413-bd4b-07be576944b4">
+
 
 Add, edit and delete income entries
 
